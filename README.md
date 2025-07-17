@@ -1,7 +1,6 @@
 ### Hello! Eu sou Isac Mahique 👋
 
-- 🔭 Me formando em Front-end & Back-end
-- 🌱 Estudante de java
+- 🔭 Me formando em programador web full stack, mobiel e desktop
 - 💬 Contacte-me no email: isacjanuariomahique@gmail.com
 
 
