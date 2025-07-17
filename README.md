@@ -2,7 +2,7 @@
 
 - 🔭 Me formando em Front-end & Back-end
 - 🌱 Estudante de java
-- 💬 Contacte-me no email: kmahique@gmail.com
+- 💬 Contacte-me no email: isacjanuariomahique@gmail.com
 
 
 
